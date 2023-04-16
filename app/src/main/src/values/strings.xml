@@ -1,0 +1,40 @@
+<resources>
+    <string name="filter">Adopt me</string>
+    <string name="app_name"></string>
+
+
+    <string-array name="filter">اختر المنطقة
+        <item>الكل</item>
+        <item>الرياض</item>
+        <item>تبوك</item>
+        <item>جدة</item>
+
+
+    </string-array>
+<!--    <string-array name="spinner1">*نوع الحيوان-->
+<!--        <item>قطط</item>-->
+<!--        <item>طيور</item>-->
+<!--        <item>اسماك</item>-->
+<!--        <item>ارانب</item>-->
+
+
+<!--    </string-array>-->
+
+<!--    <string-array name="spinner2">*عمر الحيوان-->
+<!--        <item>/ايام</item>-->
+<!--        <item>/اسابيع</item>-->
+<!--        <item>/اشهر</item>-->
+<!--        <item>/سنه</item>-->
+
+
+<!--    </string-array>-->
+
+<!--    <string-array name="spinner3">*هل اخذ كافة التطعيمات؟-->
+<!--        <item>نعم</item>-->
+<!--        <item>لا</item>-->
+
+
+<!--    </string-array>-->
+
+
+</resources>
